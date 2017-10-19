@@ -1,0 +1,1 @@
+# cronusPromotion-service
